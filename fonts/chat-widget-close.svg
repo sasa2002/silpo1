@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>chat-widget-close-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff }
+		.shp1 { fill: none;stroke: #ff8521;stroke-width: 2 }
+		.shp2 { fill: none;stroke: #ff8521;stroke-linecap:round;stroke-width: 2 }
+	</style>
+	<path id="Layer" class="shp0" d="M0 24C0 10.75 10.75 0 24 0L24 0C37.25 0 48 10.75 48 24L48 24C48 37.25 37.25 48 24 48L24 48C10.75 48 0 37.25 0 24L0 24Z" />
+	<path id="Layer" class="shp1" d="M1 24C1 11.3 11.3 1 24 1L24 1C36.7 1 47 11.3 47 24L47 24C47 36.7 36.7 47 24 47L24 47C11.3 47 1 36.7 1 24L1 24Z" />
+	<path id="Layer" class="shp2" d="M16.41 32L31.35 17.07" />
+	<path id="Layer" class="shp2" d="M31.15 32L16.22 17.07" />
+</svg>
